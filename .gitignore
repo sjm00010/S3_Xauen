@@ -1,3 +1,9 @@
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
 ### VS Code ###
 .vscode/
 
@@ -151,3 +157,6 @@ pyrightconfig.json
 [Ss]cripts
 pyvenv.cfg
 pip-selfcheck.json
+
+### test files ###
+test.py
